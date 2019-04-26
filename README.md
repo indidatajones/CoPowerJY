@@ -1,4 +1,4 @@
-# MacGruff: My Personal Collection of [Jupyter Noteboks] that maintin using [Juno](https://juno.sh/)
+# MacGruff: My Personal Collection of [Jupyter Noteboks](https://github.com/jupyter/notebook) on iPad using [Juno](https://juno.sh/)
 
  > 
  
